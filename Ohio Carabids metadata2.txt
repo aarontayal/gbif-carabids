@@ -1,0 +1,6 @@
+Data accessed from GBIF 9-1-2023
+
+USA_36 means Ohio - the data was only pulled for the state of Ohio
+
+The basis of record was "Preserved specimen" which basically means museum records.  Many of these museum records apparently reside in the Triplehorn Collection at Ohio State University
+
